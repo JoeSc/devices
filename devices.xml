@@ -70,4 +70,7 @@ sensitive and must match.
   <developer id="83" name="fpvillafranca">
     <dev id="1" name="mixed" label="Mixed board with 1 analog input and 1 binary output"/>
   </developer>
+  <developer id="3735928559" name="JDS">
+    <dev id="1" name="temphum_si7012" label="Multi-sensor board"/>
+  </developer>
 </devices>
